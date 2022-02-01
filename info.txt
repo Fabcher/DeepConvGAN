@@ -1,0 +1,7 @@
+Extract images to "data/images"
+The script will check the "data" folder for class folders, 
+and will find only 1: "images", with 1000 images
+The data folder location can be changed in the script of through the command line.
+
+Install pytorch, matplotlib, numpy. Basically any recent version will work.
+
