@@ -1,2 +1,2 @@
 # DeepConvGAN
-Deep Convnet GAN
+Deep Convnet GAN with pytorch
